@@ -1,10 +1,9 @@
 # Milestone 2
 
 ## Description
-Describe what you did for this milestone in your own words.
-
+In this milestone, I made it so the player and opponent can launch projectiles, opponents respawn when there are none left, made
+a counter that keeps track of the score, and print out a game over screen when the player dies.
 ## Challenges encountered
-Describe the challenges you encountered while working on this milestone of the project.
-
+The challenges I encountered was changing my code so it works with unique_ptrs rather than just classes.
 ## Things I've learned
-What is the most important thing you've learned from this milestone in the project?
+The most important thing I learned was how to effectively use unique_ptrs and some of it's unique functions like std::move
